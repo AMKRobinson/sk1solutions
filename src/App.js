@@ -17,13 +17,13 @@ function App() {
             <ul>
               <li>
                 <Link to="/services">Services</Link>
-            </li>
+              </li>
               <li>
                 <Link to="/contact">Contact</Link>
-            </li>
+              </li>
               <li>
                 <Link to="/about">About</Link>
-            </li>
+              </li>
             </ul>
           </div>
         </header>
